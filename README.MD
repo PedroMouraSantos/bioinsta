@@ -28,7 +28,7 @@ Clone o Repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/PedroMouraSantos/bioinsta
 Abra os Arquivos:
 
 Navegue até o diretório clonado e abra index.html em um navegador de sua escolha.
